@@ -72,18 +72,17 @@
 
 <!-- Title of the project -->
 <div align="">
-  <h3><a href="https://sekinexpress.com" title="https://sekinexpress.com">SekinExpress - Delivery Service Website</a></h3>
+  <h3><a href="https://sekinexpress.com" title="https://parttimebuddy.site">PartTimeBuddy - University Project</a></h3>
 </div>
 <!-- Description of the project -->
-<p>A fully responsive parcel delivery website built using Bootstrap and JavaScript.</p>
+<p>A fully responsive job posting and searching website built using MERN Stack.</p>
 <br>
 <!-- Features of the project -->
 <p>
   <i>Features:</i>
 </p>
 <ul>
-  <li>Includes real-time order tracking and a unique order ID generator (e.g., `CBC00000001`).</li>
-  <li>SEO optimized for delivery services in Colombo city.</li>
+  <li>Includes user account creation, login functionalities, and job creation capabilities.</li>
 </ul>
 <br>
 <!-- Tech Stack -->
@@ -91,12 +90,8 @@
   <i>Technologies:</i>
 </p>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>JavaScript</li>
-  <li>PHP</li>
-  <li>MySQL</li>
+  <li>MERN</li>
+  <li>Tailwind CSS</li>
 </ul>
 <br>
 <p>

@@ -100,6 +100,36 @@
 
 ##
 
+<!-- Title of the project -->
+<div align="">
+  <h3><a href="https://docportal.site" title="https://docportal.site">Doc Portal - Mini Web Application for file management</a></h3>
+</div>
+<!-- Description of the project -->
+<p>A fully responsive file managing website built using MERN Stack.</p>
+<br>
+<!-- Features of the project -->
+<p>
+  <i>Features:</i>
+</p>
+<ul>
+  <li>Includes user  login functionalities, file creation, and deletion capabilities.</li>
+</ul>
+<br>
+<!-- Tech Stack -->
+<p>
+  <i>Technologies:</i>
+</p>
+<ul>
+  <li>MERN</li>
+  <li>Tailwind CSS</li>
+</ul>
+<br>
+<p>
+  <i>Status of the Project:</i> <code><b> Live ✅ </b></code>
+</p>
+
+##
+
 > #### <p align='center'>Connect with me on <a href="https://github.com/shanuDil2001" target="_blank"><ins>GITHUB</ins></a> or <a href="https://github.com/shanuDil2001" target="_blank"><ins>LINKEDIN</ins></a> or <a href="https://github.com/shanuDil2001" target="_blank"><ins>FACEBOOK</ins></a> or <a href="https://github.com/shanuDil2001" target="_blank"><ins>EMAIL</ins></a> or <a href="https://github.com/shanuDil2001" target="_blank"><ins>FIVERR</ins></a></p>
 
 ##

@@ -72,7 +72,7 @@
 
 <!-- Title of the project -->
 <div align="">
-  <h3><a href="https://sekinexpress.com" title="https://parttimebuddy.site">PartTimeBuddy - University Project</a></h3>
+  <h3><a href="https://parttimebuddy.site" title="https://parttimebuddy.site">PartTimeBuddy - University Project</a></h3>
 </div>
 <!-- Description of the project -->
 <p>A fully responsive job posting and searching website built using MERN Stack.</p>

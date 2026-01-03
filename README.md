@@ -28,7 +28,7 @@
 
 ##
 
-<h4><span>🎯 Goal</span>: <i><b>“Building Scalable Web and Mobile Applications for a Digital World”</b></i></h4>
+<h4><span>🎯 Goal</span>: <i><b>“Building Scalable Web and Mobile Applications for the Digital World”</b></i></h4>
 
 ##
 
